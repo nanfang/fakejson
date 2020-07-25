@@ -1,0 +1,9 @@
+{
+  packs: [
+    {id:1, name:"Trip to Beijing"},
+    {id:2, name:"Trip to Wuhan"},
+    {id:3, name:"Trip to Shanghai"},
+    {id:4, name:"Trip to Beidaihe"},
+    {id:5, name:"Trip to Lijiang"}
+  ]
+}
