@@ -5,5 +5,12 @@
     {"id":3, "name":"Trip to Shanghai"},
     {"id":4, "name":"Trip to Beidaihe"},
     {"id":5, "name":"Trip to Lijiang"}
+  ],
+  "items": [
+    {"id":1, "name":"Wallet"},
+    {"id":2, "name":"Phone"},
+    {"id":3, "name":"Watch"},
+    {"id":4, "name":"Map"},
+    {"id":5, "name":"Knapsack"}
   ]
 }
